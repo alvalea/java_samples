@@ -1,4 +1,4 @@
-package alem.java_sample.monitor;
+package alem.java_samples.monitor;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
